@@ -14,6 +14,6 @@ The game is a version of the classic Minesweeper and runs on the console. It is 
 
 ### Usage Instructions:
 
-* Download the `minesweeper.c` file to run the game.
+* Download all files and use the `minesweeper.c` file to run the game.
 
   
